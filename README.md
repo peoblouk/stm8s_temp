@@ -17,3 +17,7 @@ git clone https://gitlab.com/peoblouk/stm8_template.git
 ```bash
 make build_and_flash
 ```
+
+### Serial monitor 
+ 
+Je potřeba externí aplikace(Arduino)
